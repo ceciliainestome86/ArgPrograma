@@ -1,7 +1,7 @@
-var fahrenheit = 50
-var celsius = (fahrenheit - 32)*(5/9)
-console.log("La temperatura en Celsius es: " + celsius)
+let fahrenheit = 50
+let celsius = (fahrenheit - 32)*(5/9)
+console.log("La primera temperatura en Celsius es: " + celsius)
 
-var fahrenheit = 75
-var celsius = (fahrenheit - 32)*(5/9)
-console.log("La temperatura en Celsius es: " + celsius)
+fahrenheit = 75
+celsius = (fahrenheit - 32)*(5/9)
+console.log("La segunda temperatura en Celsius es: " + celsius)
